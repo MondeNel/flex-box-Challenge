@@ -5,8 +5,7 @@ ul {
     /* add solution here */
     display: flex;
     flex-direction: row;
-    justify-content:space-around;
-    align-items: center;
+    justify-content: center;
     
 }
 
@@ -16,7 +15,8 @@ li {
     background-color: rgb(245, 173, 41);
 
     /* add solution here.. */
-    box-sizing: border-box;
+    font-size: 25px;
     height: 250px;
-    width: 150px;
+    width: 50%;
 }
+
